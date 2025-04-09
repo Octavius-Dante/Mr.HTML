@@ -81,7 +81,7 @@ https://www.mymap.ai/css-generator
 ```html
 
 <body bgcolor="black">
-<p style="color:#00d4f0">
+<p style="color:#0f0f0">
 
 </p>
 </body>
