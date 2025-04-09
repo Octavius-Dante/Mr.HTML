@@ -60,7 +60,19 @@ https://www.mymap.ai/css-generator
 
 ```
 
+</BR>
 
+### NSA Blue
+
+```html
+
+<body bgcolor="black">
+<p style="color:#00d4f0">
+
+</p>
+</body>
+
+```
 
 </BR>
 </BR>
