@@ -19,6 +19,26 @@ Color picker 2 : https://www.w3schools.com/colors/colors_picker.asp
 
 CSS Generator : 
 
+https://webcode.tools/css-generator
+
+https://css-generator.netlify.app/
+
+https://html-css-js.com/css/generator/
+
+https://cssgenerator.org/
+
+https://workik.com/css-code-generator
+
+https://css3generator.com/
+
+https://www.toptal.com/developers/css3maker
+
+https://cssgradient.io/
+
+https://layout.bradwoods.io/
+
+https://www.mymap.ai/css-generator
+
 </BR>
 
 
