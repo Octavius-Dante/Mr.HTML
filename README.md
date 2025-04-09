@@ -117,6 +117,20 @@ https://www.mymap.ai/css-generator
 ```
 
 </BR>
+
+### Yellow
+
+```html
+
+<body bgcolor="black">
+<p style="color:#a7f542">
+
+</p>
+</body>
+
+```
+
+</BR>
 </BR>
 
 <!-- 
