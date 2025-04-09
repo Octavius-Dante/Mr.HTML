@@ -13,6 +13,8 @@ Excel Cells to HTML tabl converter : https://tableconvert.com/excel-to-html
 
 Color picker : https://htmlcolors.com/google-color-picker
 
+Color picker 2 : https://www.w3schools.com/colors/colors_picker.asp
+
 </BR>
 
 CSS Generator : 
