@@ -43,7 +43,17 @@ https://layout.bradwoods.io/
 https://www.mymap.ai/css-generator
 
 </BR>
+</BR>
+</BR>
 
+## Template panel  
+
+```html
+
+```
+
+</BR>
+</BR>
 
 <!-- 
 
