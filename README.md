@@ -103,6 +103,20 @@ https://www.mymap.ai/css-generator
 ```
 
 </BR>
+
+### Yellow
+
+```html
+
+<body bgcolor="black">
+<p style="color:#02e1f5">
+
+</p>
+</body>
+
+```
+
+</BR>
 </BR>
 
 <!-- 
