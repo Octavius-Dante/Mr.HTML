@@ -60,12 +60,7 @@ https://www.mymap.ai/css-generator
 
 ```
 
-### sample preview 
 
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
 
 </BR>
 </BR>
@@ -76,5 +71,11 @@ https://www.mymap.ai/css-generator
 
 </BR>
 </BR>
+
+
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 
 -->
