@@ -48,7 +48,15 @@ https://www.mymap.ai/css-generator
 
 ## Template panel  
 
+### Green
+
 ```html
+
+<body bgcolor="black">
+<p style="color:#11ff00">
+
+</p>
+</body>
 
 ```
 
