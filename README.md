@@ -17,7 +17,7 @@ Color picker 2 : https://www.w3schools.com/colors/colors_picker.asp
 
 </BR>
 
-## CSS GeneratorS : 
+### CSS Generators : 
 
 https://webcode.tools/css-generator
 
