@@ -48,7 +48,7 @@ https://www.mymap.ai/css-generator
 
 ## Template panel  
 
-### Green
+### Green <<<<<
 
 ```html
 
@@ -90,7 +90,7 @@ https://www.mymap.ai/css-generator
 
 </BR>
 
-### NSA Blue # 3
+### NSA Blue # 3 <<<<<
 
 ```html
 
@@ -118,7 +118,7 @@ https://www.mymap.ai/css-generator
 
 </BR>
 
-### Yellow-Green # 2 
+### Yellow-Green # 2 <<<<<
 
 ```html
 
@@ -132,7 +132,7 @@ https://www.mymap.ai/css-generator
 
 </BR>
 
-### Yellow 
+### Yellow <<<<<
 
 ```html
 
