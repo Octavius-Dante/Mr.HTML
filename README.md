@@ -11,7 +11,7 @@ Excel Cells to HTML tabl converter : https://tableconvert.com/excel-to-html
 
 </BR>
 
-Color picker : 
+Color picker : https://htmlcolors.com/google-color-picker
 
 </BR>
 
