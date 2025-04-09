@@ -62,7 +62,10 @@ https://www.mymap.ai/css-generator
 
 ### sample preview 
 
-<p style="color:#11ff00">2025/04/05 03:02:37 00000000000000000001 </p>
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 
 </BR>
 </BR>
