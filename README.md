@@ -104,7 +104,7 @@ https://www.mymap.ai/css-generator
 
 </BR>
 
-### Yellow-Green
+### Yellow-Green # 1 
 
 ```html
 
@@ -118,12 +118,26 @@ https://www.mymap.ai/css-generator
 
 </BR>
 
-### Yellow
+### Yellow-Green # 2 
 
 ```html
 
 <body bgcolor="black">
-<p style="color:#a7f542">
+<p style="color:#ADFC03">
+
+</p>
+</body>
+
+```
+
+</BR>
+
+### Yellow 
+
+```html
+
+<body bgcolor="black">
+<p style="color:yellow">
 
 </p>
 </body>
