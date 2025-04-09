@@ -104,12 +104,12 @@ https://www.mymap.ai/css-generator
 
 </BR>
 
-### Yellow
+### Yellow-Green
 
 ```html
 
 <body bgcolor="black">
-<p style="color:#02e1f5">
+<p style="color:#a7f542">
 
 </p>
 </body>
