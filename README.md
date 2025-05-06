@@ -76,21 +76,7 @@ https://www.mymap.ai/css-generator
 
 </BR>
 
-### NSA Blue # 2
-
-```html
-
-<body bgcolor="black">
-<p style="color:#0f0f0">
-
-</p>
-</body>
-
-```
-
-</BR>
-
-### NSA Blue # 3 <<<<<
+### NSA Blue # 2 <<<<<
 
 ```html
 
