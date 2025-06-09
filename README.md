@@ -133,6 +133,114 @@ https://www.mymap.ai/css-generator
 </BR>
 </BR>
 
+### Split screen <<<<<
+
+```html
+
+<html>
+	<head>
+		<title>sample data split screen</title>
+		<style>
+body {
+  font-family: Arial;
+  color: white;
+}
+
+
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.left {
+  left: 0;
+  background-color: #111;
+  zoom: 100%;
+}
+
+.right {
+  right: 0;
+  background-color: red;
+  zoom: 100%;
+}
+
+td {
+
+text-align : left;
+}
+
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.centered img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+
+
+  a {
+    text-decoration: none; /* Remove underline from all links by default */
+  }
+
+  a:link {
+    color: #ADFC03; /* Style for unvisited links */
+  }
+
+  a:visited {
+    color: yellow; /* Style for visited links */
+  }
+
+  a:hover {
+    color: red; /* Style for links when moused over */
+    text-decoration: underline; /* Add underline on hover */
+  }
+
+  a:active {
+    color: orange; /* Style for links when clicked (actively selected) */
+  }
+ 
+</style>
+	</head>
+	
+	<body>
+		<div>
+			<div class="split left">
+				<!--<div class="centered">-->
+				<body bgcolor="black">
+			<p style="color:#ADFC03"></p>
+			<center>
+					SAMPLE LEFT
+			</center>
+		</div>
+		
+		
+		<div class="split right">
+			<center>
+					SAMPLE RIGHT 
+            </center>
+        </div>
+    </body>
+
+</html>
+
+```
+
+</BR>
+</BR>
+
 <!-- 
 
 </BR>
