@@ -143,13 +143,14 @@ https://www.mymap.ai/css-generator
 		<style>
 body {
   font-family: Arial;
-  color: white;
+  /* color: white; */
+  color: white; 
 }
 
 
 .split {
   height: 100%;
-  width: 50%;
+  /* width: 50%; */
   position: fixed;
   z-index: 1;
   top: 0;
@@ -159,14 +160,18 @@ body {
 
 .left {
   left: 0;
+  /* background-color: #111; */
   background-color: #111;
-  zoom: 100%;
+  zoom: 90%;
+  width: 15%;
 }
 
 .right {
   right: 0;
-  background-color: red;
-  zoom: 100%;
+  /* background-color: red; */
+  background-color: #2429d; /*github background */
+  zoom: 90%;
+  width: 85%;
 }
 
 td {
@@ -204,8 +209,9 @@ text-align : left;
   }
 
   a:hover {
-    color: red; /* Style for links when moused over */
+    color: #FFFFFF; /* Style for links when moused over */
     text-decoration: underline; /* Add underline on hover */
+	/* background-color: red; */
   }
 
   a:active {
