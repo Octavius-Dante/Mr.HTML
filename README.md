@@ -133,6 +133,44 @@ https://www.mymap.ai/css-generator
 </BR>
 </BR>
 
+
+### Table for list of items with dark background <<<<<
+
+```html
+
+<html>
+	<head>
+		<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  color: #02e1f5;
+  padding: 8px;
+}
+
+
+}
+</style>
+	</head>
+	<p style="color:#02e1f5">
+		<body bgcolor="black">
+
+<!--Put your table items here-->
+
+		</p>
+	</body>
+</HTML>
+
+```
+
+
+</BR>
+</BR>
+
 ### Split screen <<<<<
 
 ```html
