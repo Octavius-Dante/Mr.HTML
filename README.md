@@ -13,6 +13,11 @@ https://tableconvert.com/excel-to-html
 
 </BR>
 
+## HTML pretty print : 
+https://jsonformatter.org/html-pretty-print
+
+</BR>
+
 ## Color picker : 
 https://htmlcolors.com/google-color-picker
 
