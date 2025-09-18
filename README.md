@@ -290,6 +290,96 @@ text-align : left;
 </BR>
 </BR>
 
+### Multiple search of the clicking link <<<<< with search id text 
+
+```
+<html>
+	<head>
+		<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  color: #02e1f5;
+  padding: 8px;
+}
+
+a:link {
+  color:#ADFC03;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color:#ADFC03;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+}
+</style>
+
+<script type="text/javascript">
+
+var el = document.getElementById('myLink');
+el.onclick = showFoo;
+
+function showFoo(myMessage) {
+  //alert('I am foo!' + " " + myMessage);
+  //return false;
+  
+  const urlsToOpen = [
+    'https://www.google.com/search?q=' + myMessage + '+game',
+    'https://www.google.com/search?q=' + myMessage + '+game+reviews' ,
+    'https://www.google.com/search?q=' + myMessage + '+gameplay',
+	"https://www.google.com/search?q=" + myMessage + "+gameplay+videos",
+	"https://www.google.com/search?q=" + myMessage + "+gameplay+trailers" 
+];
+  
+       for (let i = 0; i < urlsToOpen.length; i++) {
+        // The second argument, a unique name, is important for opening in new tabs
+        // otherwise, subsequent calls might overwrite the first tab.
+        window.open(urlsToOpen[i], "_blank"); 
+    } 
+  	
+
+}
+
+</script>
+
+	</head>
+	<p style="color:#02e1f5">
+		<body bgcolor="black">
+
+<!--Put your table items here-->
+
+<a id="myLink" href="#" onclick="showFoo('God of war ragnarok');">link text</a>
+
+
+		</p>
+	</body>
+</HTML>
+
+```
+
+</BR>
+</BR>
+
 <!-- 
 
 </BR>
