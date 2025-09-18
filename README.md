@@ -292,7 +292,8 @@ text-align : left;
 
 ### Multiple search of the clicking link <<<<< with search id text 
 
-```
+```html
+
 <html>
 	<head>
 		<style>
